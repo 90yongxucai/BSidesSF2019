@@ -12,3 +12,5 @@ Writeups for BSidesSF contest
 ### PWN
 
 ### Misc
+
+ - [Trivia 1](misc/trivia1) (101, Trivia)
