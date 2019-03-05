@@ -14,6 +14,7 @@ Writeups for BSidesSF  by quintuplecs
 ### Reverse
 
 ### PWN
+- [runit](pwn/runit.md)
 
 ### Misc
 
