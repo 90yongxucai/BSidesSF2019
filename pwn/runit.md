@@ -1,5 +1,5 @@
 # runit
-slopey112 - 3/4/19
+PWN | 25 Points
 
 We are given a typical binary executable. Let's first see what it does.
 ```
