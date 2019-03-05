@@ -12,3 +12,8 @@ It was the base64 representation of a jpg image.
 
 Going on [Online JPG Tools](https://onlinejpgtools.com), I quickly converted the base64 into a jpg image, and sure enough, we find the flag.
 ![puckman](../img/misc/puckman.png)
+
+
+```
+CTF{PUCKMAN}
+```
