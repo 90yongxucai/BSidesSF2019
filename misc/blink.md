@@ -1,4 +1,5 @@
 # Blink
+
 Moible | 50 points
 
 We are given an .apk file and asked to find the flag inside it. apk files are essentially software packages, analagous to .exe files on Windows. We can, however, reverse engineer these guys by first converting them to a jar file by using the `dex2jar` command line utility.
