@@ -16,8 +16,8 @@ Writeups for BSidesSF  by quintuplecs
 ### PWN
 
  - [runit](pwn/runit.md)
- - [blink](misc/blink.md)
 
 ### Misc
 
  - [Trivia 1](misc/trivia1.md) (101, Trivia)
+ - [blink](misc/blink.md)
