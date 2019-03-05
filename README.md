@@ -1,5 +1,5 @@
 # BSidesSF2019
-Writeups for BSidesSF contest
+Writeups for BSidesSF  by quintuplecs
 
 ### Web
 
