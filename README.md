@@ -7,7 +7,7 @@ Writeups for BSidesSF  by quintuplecs
  - [Kookie](web/kookie.md)
  - [Pick-Tac-Toe](web/picktactoe.md)
 
-### Moible
+### Mobile
 
  - [blink](misc/blink.md)
 
