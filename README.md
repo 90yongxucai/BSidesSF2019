@@ -17,4 +17,4 @@ Writeups for BSidesSF contest
 
 ### Misc
 
- - [Trivia 1](misc/trivia1) (101, Trivia)
+ - [Trivia 1](misc/trivia1.md) (101, Trivia)
