@@ -1,5 +1,5 @@
 # BSidesSF2019
-Writeups for BSidesSF contest
+Writeups for BSidesSF  by quintuplecs
 
 ### Web
 
@@ -17,4 +17,4 @@ Writeups for BSidesSF contest
 
 ### Misc
 
- - [Trivia 1](misc/trivia1) (101, Trivia)
+ - [Trivia 1](misc/trivia1.md) (101, Trivia)
