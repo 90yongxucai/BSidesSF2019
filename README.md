@@ -3,9 +3,11 @@ Writeups for BSidesSF contest
 
 ### Web
 
- - [Futrella](web/futrella.md)
+ - [Futrella](web/futrella.md) (Web, 101)
  - [Kookie](web/kookie.md)
  - [Pick-Tac-Toe](web/picktactoe.md)
+
+### Forensics
 
 ### Crypto
 
