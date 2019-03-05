@@ -12,7 +12,7 @@ Segmentation fault
 Executing it, we feed the program input, but for some reason we get a segmentation fault. Recall that a segmentation fault occurs when you try to access a region of memory that doesn't exist. We'll keep that in mind as we proceed.
 
 Now, let's disassemble the binary.
-```
+```assembly
    0x0804854b <+0>:	lea    ecx,[esp+0x4]
    0x0804854f <+4>:	and    esp,0xfffffff0
    0x08048552 <+7>:	push   DWORD PTR [ecx-0x4]
