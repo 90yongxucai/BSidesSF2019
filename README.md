@@ -7,11 +7,9 @@ Writeups for BSidesSF  by quintuplecs
  - [Kookie](web/kookie.md)
  - [Pick-Tac-Toe](web/picktactoe.md)
 
-### Forensics
+### Moible
 
-### Crypto
-
-### Reverse
+ - [blink](misc/blink.md)
 
 ### PWN
 
@@ -20,4 +18,3 @@ Writeups for BSidesSF  by quintuplecs
 ### Misc
 
  - [Trivia 1](misc/trivia1.md) (101, Trivia)
- - [blink](misc/blink.md)
